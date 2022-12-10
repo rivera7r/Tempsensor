@@ -43,4 +43,10 @@ For this project you need to use this services
 - Whois (it's the domain in which you use your IP address)
 
 # Instructions 
+***
+
+# Requirements to start
+Before starting the project, you need to have completed all the requirements
+
+- 
 
