@@ -27,20 +27,26 @@ This project consists of having a ESP32 that reads the temperature in a room and
 # Software needed
 To work with the project you need this softwares
 
-- Github
-- Visual Studio
+- [Github](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
   - C/C++ compiler
   - Platformio
-- Node-red
+- [Node-red](https://nodered.org/)
 
 # Reference Materials
+
+[bitluni](https://www.youtube.com/watch?v=GeN7g4bdHiM&t=362s&ab_channel=bitluni)
+[techiesms](https://www.youtube.com/watch?v=srFQBM8qY_Q&t=211s&ab_channel=techiesms)
+[Ignacio Aguilera](https://www.youtube.com/watch?v=x5GML1FqcTQ&t=645s&ab_channel=IgnacioAguilera)
+[Jules Thuillier](https://www.youtube.com/watch?v=lBL8G1ht2mE&t=193s&ab_channel=JulesThuillier)
+[Educatronics ISC](https://www.youtube.com/watch?v=D6vNqHx62_c&ab_channel=EDUCATRONICOSISC)
 
 
 # Services
 For this project you need to use this services
 
-- AWS server (this is the clound in which you upload your work)
-- Whois (it's the domain in which you use your IP address)
+- [AWS server](https://aws.amazon.com/es/ec2/) (this is the clound in which you upload your work)
+- [Whois](https://www.whois.com/) (it's the domain in which you use your IP address)
 
 # Instructions
 
