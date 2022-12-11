@@ -92,3 +92,7 @@ Before starting the project, you need to have completed all the requirements
 - Hey Siri
   - Will be developed in node-red
 
+# Results
+
+![image](https://user-images.githubusercontent.com/111934599/206929640-40465a17-4b66-4de7-addf-89e84a6594ff.png)
+
