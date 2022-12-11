@@ -5,15 +5,13 @@ INEL4206-030 Final Proyect in which we need to create a serverless code that wor
 This project consists of having a ESP32 that reads the temperature in a room and sends that information to a cloud.
 
 - Create a code for the ESP32 that reads the temperature of the room with a thermistor.
-- Connect the esp32 to the wifi
+- Connect the esp32 to the wifi and add the wifi library and pubsubclient
 - Create an online cloud server
-- Create teh keys for the server to control the cloud server
-- Buy a domain to put the IP direction of teh cloud CPU
+- Create the keys for the server to control the cloud server
+- Buy a domain to put the static IP address of the cloud CPU
 - Enter from your remote server and download node-red
 - Open node-red create a workflow that receives the information and uploads the information to the server
 - Create an interface 
--Add teh wifi library and pubsubclient
--He Siri
 
 # Needed Materials
 
