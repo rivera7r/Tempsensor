@@ -35,11 +35,11 @@ To work with the project you need this softwares
 
 # Reference Materials
 
-[bitluni](https://www.youtube.com/watch?v=GeN7g4bdHiM&t=362s&ab_channel=bitluni)
-[techiesms](https://www.youtube.com/watch?v=srFQBM8qY_Q&t=211s&ab_channel=techiesms)
-[Ignacio Aguilera](https://www.youtube.com/watch?v=x5GML1FqcTQ&t=645s&ab_channel=IgnacioAguilera)
-[Jules Thuillier](https://www.youtube.com/watch?v=lBL8G1ht2mE&t=193s&ab_channel=JulesThuillier)
-[Educatronics ISC](https://www.youtube.com/watch?v=D6vNqHx62_c&ab_channel=EDUCATRONICOSISC)
+- [bitluni](https://www.youtube.com/watch?v=GeN7g4bdHiM&t=362s&ab_channel=bitluni)
+- [techiesms](https://www.youtube.com/watch?v=srFQBM8qY_Q&t=211s&ab_channel=techiesms)
+- [Ignacio Aguilera](https://www.youtube.com/watch?v=x5GML1FqcTQ&t=645s&ab_channel=IgnacioAguilera)
+- [Jules Thuillier](https://www.youtube.com/watch?v=lBL8G1ht2mE&t=193s&ab_channel=JulesThuillier)
+- [Educatronics ISC](https://www.youtube.com/watch?v=D6vNqHx62_c&ab_channel=EDUCATRONICOSISC)
 
 
 # Services
