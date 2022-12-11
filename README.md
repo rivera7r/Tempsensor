@@ -32,6 +32,8 @@ To work with the project you need this softwares
   - C/C++ compiler
   - Platformio
 - [Node-red](https://nodered.org/)
+- [Ubuntu](https://ubuntu.com/)
+- [Aedes MQTT](https://github.com/moscajs/aedes)
 
 # Reference Materials
 
