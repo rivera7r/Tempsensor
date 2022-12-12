@@ -97,7 +97,8 @@ Temperature code:
 ![image](https://user-images.githubusercontent.com/111934599/206929898-f4b9d854-1b68-461e-a217-428f452ce58f.png)
 
 Node-red connections:
-![image](https://user-images.githubusercontent.com/111934599/206929640-40465a17-4b66-4de7-addf-89e84a6594ff.png)
+![image](https://user-images.githubusercontent.com/111934599/206951635-5fc17ead-1afd-45ae-9131-f6a14e8cbcd3.png)
+
 
 
 # License
