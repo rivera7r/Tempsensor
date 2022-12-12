@@ -91,16 +91,19 @@ Before starting the project, you need to have completed all the requirements
   - Will be developed in node-red
 
 # Results
-In the following images you can observe the code running and reading the temperature in the room it's in. Following image you can observe the connection in the node-red window.
+In the following images you can observe the set up of the ESP32 to read temperatures and below it 
+
+ESP32 setup:
+![image](https://user-images.githubusercontent.com/111934599/207075756-fca76d29-8f78-471c-8f74-0a787bab612e.png)
 
 Temperature code:
 ![image](https://user-images.githubusercontent.com/111934599/206929898-f4b9d854-1b68-461e-a217-428f452ce58f.png)
 
+Entry window to server:
+![image](https://user-images.githubusercontent.com/111934599/207076752-7e449307-a76d-4cf9-b4bd-6d72965ff9f7.png)
+
 Node-red connections:
 ![image](https://user-images.githubusercontent.com/111934599/206951635-5fc17ead-1afd-45ae-9131-f6a14e8cbcd3.png)
-
-ESP32 setup:
-![image](https://user-images.githubusercontent.com/111934599/207075756-fca76d29-8f78-471c-8f74-0a787bab612e.png)
 
 
 
