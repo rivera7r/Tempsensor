@@ -1,6 +1,6 @@
 # Tempsensor
 INEL4206-030 Final Project in which we need to create a serverless code that worked reading temperature and constantly publishing values to a cloud.
--Assignments are described in the Gantt chart
+- Assignments are described in the Gantt chart
 
 # Introduction
 This project consists of having a ESP32 that reads the temperature in a room and sends that information to a cloud.
