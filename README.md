@@ -20,7 +20,8 @@ This project consists of having a ESP32 that reads the temperature in a room and
 - Jumper cables
 - USB 2.0 - USB-mini cabke
 - Thermistor
-- Sensor
+-  2x 10K resistor
+- Push button
 
 # Software needed
 To work with the project you need this softwares
