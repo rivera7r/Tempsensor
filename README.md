@@ -91,7 +91,7 @@ Before starting the project, you need to have completed all the requirements
   - Will be developed in node-red
 
 # Results
-In the following images you can observe the set up of the ESP32 to read temperatures and below it 
+In the following images you can observe the set up of the ESP32 to read temperatures and below it teh result of the code with the temperature readings. The following images are the entry windos from ubunty to node-red. In the final images you can observe the connections of servers and components in the image. 
 
 ESP32 setup:
 ![image](https://user-images.githubusercontent.com/111934599/207075756-fca76d29-8f78-471c-8f74-0a787bab612e.png)
@@ -104,8 +104,6 @@ Entry window to server:
 
 Node-red connections:
 ![image](https://user-images.githubusercontent.com/111934599/206951635-5fc17ead-1afd-45ae-9131-f6a14e8cbcd3.png)
-
-
 
 
 # License
