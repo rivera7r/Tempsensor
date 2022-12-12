@@ -15,7 +15,7 @@ This project consists of having a ESP32 that reads the temperature in a room and
 
 # Needed Materials
 
-- ESP32 Microcontroller
+- [ESP32 Microcontroller](https://www.amazon.com/ESP32-WROVER-compatible-integrada-inal%C3%A1mbrica-detallado/dp/B09BC5B4H6/ref=sr_1_2_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZTVJ6T4EC9ZN&keywords=esp32+microcontroller+kit&qid=1670856434&sprefix=esp32+microcontroller+kit%2Caps%2C294&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRlBSSlEzVUZDNFVSJmVuY3J5cHRlZElkPUEwNzQ0ODUxM0JSTVBSNVBQT1lEWCZlbmNyeXB0ZWRBZElkPUEwODMwODQ0MjNXNUwxQjZMWTRLOSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 - Breadboard
 - Jumper cables
 - USB 2.0 - USB-mini cabke
