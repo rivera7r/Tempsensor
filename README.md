@@ -99,6 +99,10 @@ Temperature code:
 Node-red connections:
 ![image](https://user-images.githubusercontent.com/111934599/206951635-5fc17ead-1afd-45ae-9131-f6a14e8cbcd3.png)
 
+ESP32 setup:
+![image](https://user-images.githubusercontent.com/111934599/207075756-fca76d29-8f78-471c-8f74-0a787bab612e.png)
+
+
 
 
 # License
